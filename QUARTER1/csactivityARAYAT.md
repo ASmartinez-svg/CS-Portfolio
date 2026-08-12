@@ -13,30 +13,8 @@ Section: 9-Arayat
 Making a vending machine that works properly without breaking down. It needs to let people choose snacks, take money, drop the item, and give back change.
 
 
-
-# Part 1: Decomposing the Problem
-
-We divided the main problem into 4 small parts:
-
-1. Selecting the snack
-- Showing the items and prices on the screen.
-- Getting what button the buyer presses.
-- Checking if the snack is still available.
-
-2. Getting the payment
-- Accepting cash, coins, or QR code scans.
-- Checking if the buyer inserted enough money.
-- Calculating change or giving refunds if cancelled.
-
-3. Dropping the item
-- Turning the spiral coils inside to drop the item.
-- Updating the item count so the machine knows what is left.
-- Displaying "Out of stock" when empty.
-
-4. Fixing simple errors
-- Handling jammed items.
-- Returning money if someone cancels.
-- Sending a message to the owner when items are low.
+ # Part 1: Decomposing the Problem
+ Place here
 
 
 
