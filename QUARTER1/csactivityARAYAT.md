@@ -25,6 +25,7 @@ Selected part: Payment and selection process
 ### Pseudocode
 
 START
+    
     Show all snacks and prices
     Ask buyer to press item code
 
