@@ -63,9 +63,7 @@ class Magazine(Publication):
         print(f"Issue number: {self.__issue_number}")
 
 
-# ==========================================
-# TESTING THE CLASSES
-# ==========================================
+#testclasses
 
 print("=== Publication Information ===")
 pub1 = Publication("Journal of Experimental Psychology", "Ratchiff, R. & Van Dongen, H.")
