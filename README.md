@@ -4,4 +4,4 @@
 
 
 ## Formative Assessment 1 (Q2)
-https://github.com/YourUsername/YourRepoName/blob/main/q2/fa_1.py
+https://github.com/ASmartinez-svg/CS-Portfolio/blob/main/q2/FA1_Arayat_Martinez.py
