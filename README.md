@@ -1,8 +1,6 @@
 # Angela Sophia M. Martinez
 ## 9 - Arayat
 
-## CS-Portfolio
-
 
 
 ## Formative Assessment 1 (Q2)
